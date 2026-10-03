@@ -15,3 +15,5 @@ router.post("/", dosenController.create);
 router.put("/:id", dosenController.update);
 
 module.exports = router;
+
+// sm smua
